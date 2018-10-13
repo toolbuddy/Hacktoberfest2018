@@ -16,7 +16,7 @@ Feel free to add me on Discord, although I doubt anyone is actually reading this
 
 ## Education
 
-* Undergrad of English, National Pingtung University
+* Bachelor of English, National Pingtung University (2016 ~ 2020)
 
 ---
 
