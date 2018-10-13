@@ -3,7 +3,7 @@
 ---
 
 ## Some Intro
-* [Personal website](https://kevinbird61.github.io/Intro/)
+* [Personal website](https://github.com/caviarNCKU)
 * Email: eddy113014@gmail.com
 * GitHub: @caviarNCKU
 
