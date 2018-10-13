@@ -2,8 +2,6 @@
 
 .NET developer, documentation writer, network vulnerability researcher, translation hobbyist, video producer, music producer, writer, photographer...etc. far too many things. I just do whatever I like.
 
----
-
 ## Intro
 * [Blog](https://blog.stillu.cc)
 * [Zeroday HITCON Profile](https://zeroday.hitcon.org/user/stillazure)
@@ -12,13 +10,9 @@
 
 Feel free to add me on Discord, although I doubt anyone is actually reading this 🤔.
 
----
-
 ## Education
 
 * Bachelor of English, National Pingtung University (2016 ~ 2020)
-
----
 
 ## Experience
 
@@ -31,8 +25,6 @@ Feel free to add me on Discord, although I doubt anyone is actually reading this
 * English translator for [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
 * Interned at TREX Studio
 
----
-
 ## Projects
 
 * Discord.Net Documentation: Documentation for Discord.Net, a .NET library for interacting with the Discord chat service.
@@ -40,10 +32,10 @@ Feel free to add me on Discord, although I doubt anyone is actually reading this
 
 ---
 
-## Familiar with
+## Familiar with...
 
 * Computer languages: C#/.NET IL, PowerShell
 
-## Awful with
+## Awful at...
 
 * Linux. I am terrible at any unix-based systems.
