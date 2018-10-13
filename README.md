@@ -4,6 +4,7 @@
 Hacktoberfest 2018 Event, host by @toolbuddy in Tainan, Taiwan.
 
 ## [Hacktoberfest 2018](https://hacktoberfest.digitalocean.com/)
+## [Slide & Note in Hackmd](https://hackmd.io/c/SkhUdy1sQ/https%3A%2F%2Fhackmd.io%2Fs%2FHkgtYk1o7)
 
 Hacktoberfest 2018 活動中，鼓勵初學者發出自己的第一個 commit 為出發點所建立的專案
 
