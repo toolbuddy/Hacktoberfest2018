@@ -3,7 +3,7 @@
 
 ---
 ## Short Intro
-- Email: [qwer55113322@gmail.com](qwer55113322@gmail.com)
+- Email: qwer55113322@gmail.com
 - GitHub: [NightKirie](https://github.com/NightKirie)
 
 ---
@@ -25,4 +25,3 @@
 ## Programming Skills
 - Languages: C, C++, C#, Java, Python, Javascript
 - Technologies: Linux, Qt(C++), Unity(C#)
-
