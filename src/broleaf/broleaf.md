@@ -16,7 +16,7 @@
 
 ## Side projects
 
-* nyaovim plugin : [SSR-tool in NyaoVim] (https://github.com/jyzeng17/nyaovim-ssr-tool)
+* nyaovim plugin : [SSR-tool in NyaoVim](https://github.com/jyzeng17/nyaovim-ssr-tool)
 * [GoGopainting](https://github.com/BroLeaf/GoGoPainting) : A game for multiple player painting and guess.
 * [nstack](https://github.com/BroLeaf/nstack)
 
