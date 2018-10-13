@@ -18,17 +18,19 @@ Feel free to add me on Discord, although I doubt anyone is actually reading this
 
 * Currently investing most time on [Discord.Net](https://github.com/RogueException/Discord.Net)
     * Active contributor and documentation manager
-* Vulnerability discovery contributor on Zeroday HITCON
+* Vulnerability discovery contributor on [Zeroday HITCON](https://zeroday.hitcon.org)
     * Critical DDoS and XSS-discoveries on various academic websites
 * Traditional Chinese translator for the [hacks.guide](https://hacks.guide) series
-* Traditional Chinese translator for various Microsoft Docs articles
+* Traditional Chinese translator for various [Microsoft Docs](https://docs.microsoft.com) articles
 * English translator for [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
 * Interned at TREX Studio
 
 ## Projects
 
-* Discord.Net Documentation: Documentation for Discord.Net, a .NET library for interacting with the Discord chat service.
-* PsvDecryptCore: Decryption tool for a proprietary format (`.PSV`) used by a major online training website
+* [Discord.Net Documentation](https://docs.stillu.cc)
+    * Documentation for Discord.Net, a .NET library for interacting with the Discord chat service.
+* PsvDecryptCore
+    * Decryption tool for a proprietary format (`.PSV`) used by a major online training website
 
 ---
 
